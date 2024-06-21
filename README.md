@@ -1,5 +1,7 @@
-** DISCLAIMER FOR UW STUDENTS ** \n
+** DISCLAIMER FOR UW STUDENTS ** 
+
 ** this is not public as a service to other students to copy off of, these assignments did not recieve 100% scores **
+
 ** you would be doing yourself a disservice by copying my work and not solving the problem on your own **
 
 These are some of my assignments for PHYS 267, Spring 2024 at the University of Waterloo. 
