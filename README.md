@@ -1,4 +1,4 @@
-** DISCLAIMER FOR UW STUDENTS **
+** DISCLAIMER FOR UW STUDENTS ** \n
 ** this is not public as a service to other students to copy off of, these assignments did not recieve 100% scores **
 ** you would be doing yourself a disservice by copying my work and not solving the problem on your own **
 
